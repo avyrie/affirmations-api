@@ -36,6 +36,6 @@ const fetchData = () => {
 Additional contributions are welcome. If you know of a positive affirmation that would be useful to add, please contribute to this open-source project.
 
 Thank you to our current contributors:
-<a href = "https://https://github.com/avyrie/affirmations-api/contributors">
-  <img src = "https://contrib.rocks/image?repo = derek-oshita/affirmations-api"/>
+<a href="https://github.com/avyrie/affirmations-api/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=avyrie/affirmations-api" />
 </a>
